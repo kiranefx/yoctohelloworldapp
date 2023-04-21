@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 #AC_PREREQ(2.60)
-AC_INIT(YoctoHelloWorldApp, 1.0, gbmhunter@gmail.com)
+AC_INIT(YoctoHelloWorldApp, 1.0, Kiran.raju@electrifex.com)
 AC_CONFIG_SRCDIR([HelloWorld.c])
 AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(YoctoHelloWorldApp, main)
